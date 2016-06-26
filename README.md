@@ -1,6 +1,6 @@
 # stomp
 
-STOMP client library written in C
+STOMP client library written in C(cloned from <https://github.com/evgenido/stomp.git>)
 
 ## The library aims to implement support for the following protocols:
 
