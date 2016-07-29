@@ -51,7 +51,7 @@ static void _receipt(stomp_session_t *s, void *ctx, void *session_ctx)
 static void _user(stomp_session_t *s, void *ctx, void *session_ctx)
 {
     // called every heartbeet
-    fprintf(stdout, "hartbeet: %d\n", (int)clock());
+    //fprintf(stdout, "hartbeet: %d\n", (int)clock());
 }
 
 int main(int argc, char *argv[])
